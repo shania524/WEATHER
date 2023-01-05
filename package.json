@@ -4,6 +4,8 @@
   "description": "weather",
   "main": "weather.js",
   "scripts": {
+    "start":"node weather.js",
+    "build":"echo sucess",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "shania",
